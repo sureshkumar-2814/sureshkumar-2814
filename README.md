@@ -19,9 +19,10 @@ Product Engineer by day, Problem Solver by nature — blending CAD Automation, D
 `Python` · `C#` · `RhinoCommon` · `Pandas` · `Numpy` · `EmguCV` · `Math.NET` · `SQL` · `Flask` · `REST APIs` · `Threading`
 
 ## Fun Stuff
-- 3 patents pending
+- 4 patents pending
 - Self-taught in many areas of AI and automation
 - Always curious — from financial data to generative geometry
+- Love trekking & travelling
 
 ---
 
